@@ -1,3 +1,3 @@
-# hello-world
+# world.welcome
 
 My first repository!
